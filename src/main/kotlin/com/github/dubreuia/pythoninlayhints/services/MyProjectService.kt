@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.dubreuia.pythoninlayhints.services
 
+import com.github.dubreuia.pythoninlayhints.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

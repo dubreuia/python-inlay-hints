@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dubreuia.pythoninlayhints.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dubreuia.pythoninlayhints.MyBundle
 
 class MyApplicationService {
 
